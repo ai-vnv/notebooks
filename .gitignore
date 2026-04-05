@@ -33,5 +33,7 @@ imagenet_classes.txt
 wandb/
 
 # Models
+models/
 *.pkl
 *.joblib
+*.pth
