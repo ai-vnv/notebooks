@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+matplotlib
+torch
+torchvision
+
+# ML & Robustness
+scikit-learn
+pycaret
+auto_LiRPA
+foolbox
+
+# Visualization & UI
+plotly
+gradio
+
+# Experiment tracking
+wandb
+
+# Utilities
+joblib
+Pillow
